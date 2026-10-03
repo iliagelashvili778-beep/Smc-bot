@@ -18,4 +18,3 @@ jobs:
         env:
           TG_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TG_CHAT: ${{ secrets.CHAT_ID }}
-          TEST: "1"
